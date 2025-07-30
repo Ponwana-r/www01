@@ -1,6 +1,6 @@
 @extends('demo.layout')
 @section('content')
-<h1>Demo</h1>
+<h1>Demo test to gitHub</h1>
 <table class="table">
     <thead>
         <tr>
